@@ -35,9 +35,9 @@ There are many ways to configure cDock as you wish. Give it a go and find out!</
 		<key>package</key>
 		<string>org.w0lf.cDock-GUI</string>
 		<key>payed</key>
-		<true/>
+		<false/>
 		<key>price</key>
-		<string>$4.99</string>
+		<string>Free</string>
 		<key>productID</key>
 		<string>520974</string>
 		<key>size</key>
@@ -85,9 +85,9 @@ There are many ways to configure cDock as you wish. Give it a go and find out!</
 		<key>package</key>
 		<string>org.w0lf.cleanHUD</string>
 		<key>payed</key>
-		<true/>
+		<false/>
 		<key>price</key>
-		<string>$1.99</string>
+		<string>Free</string>
 		<key>productID</key>
 		<string>535217</string>
 		<key>size</key>
@@ -133,9 +133,9 @@ There are many ways to configure cDock as you wish. Give it a go and find out!</
 		<key>package</key>
 		<string>org.w0lf.colorfulSidebar9</string>
 		<key>payed</key>
-		<true/>
+		<false/>
 		<key>price</key>
-		<string>$1.99</string>
+		<string>Free</string>
 		<key>productID</key>
 		<string>535218</string>
 		<key>size</key>
@@ -189,9 +189,9 @@ There are many ways to configure cDock as you wish. Give it a go and find out!</
 		<key>package</key>
 		<string>org.w0lf.moreMenu</string>
 		<key>payed</key>
-		<true/>
+		<false/>
 		<key>price</key>
-		<string>$1.99</string>
+		<string>Free</string>
 		<key>productID</key>
 		<string>534450</string>
 		<key>size</key>
@@ -239,7 +239,7 @@ There are many ways to configure cDock as you wish. Give it a go and find out!</
 		<key>payed</key>
 		<true/>
 		<key>price</key>
-		<string>$0.99</string>
+		<string>Free</string>
 		<key>productID</key>
 		<string>535221</string>
 		<key>size</key>
